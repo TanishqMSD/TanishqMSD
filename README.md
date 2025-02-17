@@ -63,7 +63,7 @@ TanishqMSD@GitHub
 | **Invoisify** | React, Node.js, MongoDB | [GitHub](https://github.com/TanishqMSD/invoisify) |
 | **InfluenceIQ** | MERN Stack, Tailwind CSS | [GitHub](https://github.com/TanishqMSD/influenceiq) |
 | **SmartPack** | React, Express, Firebase | [GitHub](https://github.com/TanishqMSD/smartpack) |
-| **Parkly** | Node.js, MongoDB, Bootstrap | [GitHub](https://github.com/TanishqMSD/parkly) |
+| **Parkly** | Javascript, PHP, mySQL | [GitHub](https://github.com/TanishqMSD/parkly) |
 
 ---
 
