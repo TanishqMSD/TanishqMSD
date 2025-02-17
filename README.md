@@ -30,7 +30,6 @@ TanishqMSD@GitHub
 
 ---
 
-<!-- Skills Section -->
 ## 🚀 Tech Stack & Tools  
 
 <p align="center">
@@ -41,7 +40,6 @@ TanishqMSD@GitHub
 
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TanishqMSD&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -58,7 +56,6 @@ TanishqMSD@GitHub
 
 ---
 
-<!-- Projects -->
 ## 🔥 Featured Projects  
 
 | 🚀 Project Name | 🌟 Tech Stack | 🔗 Repository |
@@ -70,7 +67,6 @@ TanishqMSD@GitHub
 
 ---
 
-<!-- Random Dev Quote -->
 ## 💡 Developer Wisdom  
 
 <p align="center">
@@ -79,7 +75,6 @@ TanishqMSD@GitHub
 
 ---
 
-<!-- Connect with Me -->
 ## 🌎 Let's Connect!  
 <p align="center">
   <a href="https://linkedin.com/in/tanishq-kulkarni" target="_blank">
@@ -99,5 +94,3 @@ TanishqMSD@GitHub
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
 </p>
 
----
-```
